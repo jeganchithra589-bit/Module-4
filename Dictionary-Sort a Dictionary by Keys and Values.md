@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e1eed0e-3d3b-46b1-879b-ec7b45df45fa" /># 🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
+ 🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
 
 This Python program demonstrates how to sort a dictionary:
 - Alphabetically by keys
